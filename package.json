@@ -30,7 +30,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "prettier": "2.8.7"
+    "prettier": "3.3.3"
   },
   "engines": {
     "honkit": ">=4.0.0"

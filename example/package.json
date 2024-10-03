@@ -12,6 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "@mziyut/honkit-plugin-hatena-bookmark-pageowner": "file:../",
-    "honkit": "^5.1.4"
+    "honkit": "^5.1.5"
   }
 }
